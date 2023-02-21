@@ -1,5 +1,4 @@
-# Hi there, I'm <a href="https://jbarron.dev" target="_blank">Carlos Tavares</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
-
+## <span>Hi there, I'm Carlos Tavares <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </span>
 
 <div id="badges" style="margin-bottom: 30px">
   <a href="https://www.linkedin.com/in/tavares-carlos/">
@@ -13,13 +12,13 @@ I am a self-taught person, constantly improving my current skills and trying to 
 
 I have excellent skills as a Front-end developer with JavaScript as my primary programming language, TypeScript and frameworks like React.js, Angular and Next.js. In addition, I have worked on full-stack projects with technologies like Node.js and express.
 
-<hr/>
+<br />
 
 ### 👨🏽‍💻 Currently Learning:
 - Python and Django.
 - NodeJS.
 
-<hr/>
+<br />
 
 ### 📈 My GitHub Stats:
 
