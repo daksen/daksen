@@ -12,13 +12,15 @@ I am a self-taught person, constantly improving my current skills and trying to 
 
 I have excellent skills as a Front-end developer with JavaScript as my primary programming language, TypeScript and frameworks like React.js, Angular and Next.js. In addition, I have worked on full-stack projects with technologies like Node.js and express.
 
-<br />
-
-### 👨🏽‍💻 Currently Learning:
-- Python and Django.
-- NodeJS.
-
-<br />
+### Skills
+- Javascript
+- React.js
+- Redux.js
+- Typescript
+- Python
+- Django
+- HTML
+- CSS
 
 ### 📈 My GitHub Stats:
 
