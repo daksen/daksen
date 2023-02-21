@@ -1,6 +1,5 @@
-## <samp>Hi there, I'm <a href="https://jbarron.dev" target="_blank">Carlos Tavares</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+# Hi there, I'm <a href="https://jbarron.dev" target="_blank">Carlos Tavares</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-<hr>
 
 <div id="badges" style="margin-bottom: 30px">
   <a href="https://www.linkedin.com/in/tavares-carlos/">
