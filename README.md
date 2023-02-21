@@ -6,8 +6,6 @@
   </a>
 </div>
 
-<br />
-
 ### About Me
 - I am a self-taught person, constantly improving my current skills and trying to learn new technologies.
 - I have excellent skills as a Front-end developer with JavaScript as my primary programming language, TypeScript and frameworks like React.js. In addition, I have worked on full-stack projects with technologies like Python and Django.
