@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<hr/>
+<br />
 
 I am a self-taught person, constantly improving my current skills and trying to learn new technologies.
 
