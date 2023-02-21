@@ -19,7 +19,7 @@
 - Python
 - Django
 
-### 📈 My GitHub Stats:
+### 📈 GitHub Stats:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=daksen&theme=dark)](https://git.io/streak-stats)
 
