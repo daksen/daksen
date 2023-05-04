@@ -1,6 +1,6 @@
 ## <span>Hi there, I'm Carlos Tavares <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </span>
 
-<div id="badges" style="margin-bottom: 30px, display: flex, align-items: center, gap: 10px">
+<div id="badges" style="margin-bottom: 30px; display: flex; align-items: center; gap: 10px;">
   <a href="https://www.linkedin.com/in/tavares-carlos/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
