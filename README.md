@@ -4,18 +4,18 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
-### 👀 About me
+### 💫 About Me
 - I'm a software engineer focused on web technologies. I love Programming, Video Games and F1.
 - I have excellent skills as a frontend developer with JavaScript as my primary programming language, TypeScript and frameworks like React.
 - I have worked as a fullstack developer with technologies like Python and Django.
 - I'm a self-taught person, constantly improving my current skills and trying to learn new technologies.
 
-### 🌱 I’m currently learning 
+### 🌱 Currently Learning 
 
 - Node
 - GraphQL
 
-### 🛠 Skills
+### 💻 Tech Stack
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
