@@ -26,6 +26,7 @@
 
 ### 🌱 Currently Learning 
 - Node
+- Next.js
 - GraphQL
 
 ### 📊 GitHub Stats:
