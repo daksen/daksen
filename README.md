@@ -6,8 +6,7 @@
 
 ### 💫 About Me
 - I'm a software engineer focused on web technologies. I love Programming, Video Games and F1.
-- I have excellent skills as a frontend developer with JavaScript as my primary programming language, TypeScript and frameworks like React.
-- I have worked as a fullstack developer with technologies like Python and Django.
+- I have excellent skills with JavaScript as my primary programming language, TypeScript, Python and frameworks like React and Django.
 - I'm a self-taught person, constantly improving my current skills and trying to learn new technologies.
 
 ### 💻 Tech Stack
