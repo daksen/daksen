@@ -67,7 +67,6 @@
 ### 🌱 Currently Learning 
 - Node
 - Next.js
-- GraphQL
 - React Native
 
 ### 📊 GitHub Stats:
