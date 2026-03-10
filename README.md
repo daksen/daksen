@@ -5,7 +5,7 @@
 </a>
 
 ### 🔭 About Me
-- I'm a software engineer focused on web technologies. I love Programming, Video Games and the Formula 1.
+- I'm a software engineer focused on web technologies. I love Programming, Padel and the Formula 1.
 - I have excellent skills with JavaScript as my primary programming language, TypeScript, React, Python and Django.
 - I'm a self-taught person, constantly improving my current skills and trying to learn new technologies.
 
