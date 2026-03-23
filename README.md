@@ -5,9 +5,9 @@
 </a>
 
 ### 🔭 About Me
-I’m a passionate software engineer with 7+ years of experience specializing in web technologies, with a strong focus on building modern, user-friendly applications. JavaScript is my go-to language, and I’m also skilled in TypeScript, React, Python, and Django. As a self-taught developer, I’m always looking for ways to improve my skills and stay up-to-date with the latest tech trends. I love tackling new challenges and see each one as an opportunity to grow and learn.
+I’m a passionate software engineer with 7+ years of experience specializing in web technologies with a strong focus on building modern, user-friendly applications. JavaScript is my go-to language, and I’m also skilled in TypeScript, React, Python, and Django. As a self-taught developer, I’m always looking for ways to improve my skills and stay up-to-date with the latest tech trends.
 
-Outside of coding, you’ll find me enjoying Vibe Coding sessions, playing Padel, or following the excitement of Formula 1. I believe that curiosity, adaptability, and a positive attitude are key to both personal and professional growth.
+I love Vibe Coding sessions, playing Padel, and listening to music. I believe that curiosity, adaptability, and a positive attitude are essential for both personal and professional growth.
 
 I’m excited to bring my enthusiasm for technology and teamwork to new projects and continue learning along the way!
 
