@@ -12,7 +12,7 @@ I love Vibe Coding sessions, playing Padel, and listening to music. I believe th
 I’m excited to bring my enthusiasm for technology and teamwork to new projects and continue learning along the way!
 
 ### 💻 Tech Stack
-<p align="left">
+<p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
