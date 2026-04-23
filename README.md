@@ -1,4 +1,4 @@
-# Hi there, I'm Carlos Tavares 👋
+# Hi there, I'm Carlos Tavares <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tavares-carlos/)
 ![Profile Views](https://komarev.com/ghpvc/?username=daksen&color=blue&style=for-the-badge)
