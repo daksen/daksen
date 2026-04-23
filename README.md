@@ -53,15 +53,15 @@ When I'm not coding, you'll find me:
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=daksen&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=daksen&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daksen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
@@ -69,12 +69,12 @@ When I'm not coding, you'll find me:
 
 ## ✍️ Dev Quote of the Day
 
-<p align="center">
+<p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
 
 ---
 
-<p align="center">
+<p align="left">
   <i>Always building, always learning.</i>
 </p>
